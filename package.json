@@ -1,0 +1,14 @@
+{
+  "name": "book-api",
+  "version": "1.0.0",
+  "main": "Node.js",
+  "scripts": {
+    "test": "server.js"
+  },
+  "author": "Cele",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}
